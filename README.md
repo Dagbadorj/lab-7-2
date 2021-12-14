@@ -1,1 +1,1 @@
-# lab-7-2
+https://dagbadorj.github.io/lab-7-2/
