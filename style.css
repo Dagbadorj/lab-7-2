@@ -270,7 +270,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/banner.png");
+  background-image: url("images/banner.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -292,7 +292,7 @@ p {
   text-transform: none;
 }
 .inter {
-  background: url("/images/bac.png");
+  background: url("images/bac.png");
   position: fixed;
   top: 0;
   left: 0;
@@ -303,7 +303,7 @@ p {
   align-items: center;
 }
 .slider {
-  background: url("/images/bac.png");
+  background: url("images/bac.png");
   position: fixed;
   top: 0;
   left: 0;
@@ -335,7 +335,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/zurag2.jpg");
+  background-image: url("images/zurag2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -387,7 +387,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/zurag4.jpg");
+  background-image: url("images/zurag4.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -408,7 +408,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/zurag1.jpg");
+  background-image: url("images/zurag1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -428,7 +428,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/zurag3.jpg");
+  background-image: url("images/zurag3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -461,7 +461,7 @@ p {
   left: 0;
   height: 120%;
   width: 100%;
-  background: url("/images/andr.jpg");
+  background: url("images/andr.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -480,7 +480,7 @@ p {
   left: 0;
   height: 120%;
   width: 100%;
-  background: url("/images/milky.jpg");
+  background: url("images/milky.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -661,7 +661,7 @@ p {
   position: absolute;
   width: 340px;
   height: 340px;
-  background: url("/images/earth.jpg");
+  background: url("images/earth.jpg");
   border-radius: 50%;
   background-size: cover;
   box-shadow: inset 0 0 20px #03a9f4, 0 0 120px #03a9f4;
@@ -741,7 +741,7 @@ p {
   position: absolute;
   width: 340px;
   height: 340px;
-  background: url("/images/mars.jpg");
+  background: url("images/mars.jpg");
   border-radius: 50%;
   background-size: cover;
   box-shadow: inset 0 0 20px #ff5722, 0 0 120px #ff5722;
@@ -771,7 +771,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/bac2.jpg");
+  background-image: url("images/bac2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -852,7 +852,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/bac1.jpg");
+  background-image: url("images/bac1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -974,7 +974,7 @@ p {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-image: url("/images/kimi.jpg");
+  background-image: url("images/kimi.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
